@@ -6,3 +6,4 @@ how to take pull.
 how to add file.(git add filename)
 how to commit.(git commit -m "comment")
 how to push.(git push origin main/branch)
+done.
